@@ -127,25 +127,4 @@
     
   
   
-    
-    <entry>
-      <title><![CDATA[about]]></title>
-      <url>http://www.wanghefei.ml/about/index.html</url>
-      <content type="html"><![CDATA[<p>一个关于我自己的故事</p>
-]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[分类]]></title>
-      <url>http://www.wanghefei.ml/categories/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[标签云]]></title>
-      <url>http://www.wanghefei.ml/tags/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-  
 </search>
